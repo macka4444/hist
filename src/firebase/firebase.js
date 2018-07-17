@@ -8,7 +8,7 @@ const config = {
     projectId: "hist-96d43",
     storageBucket: "hist-96d43.appspot.com",
     messagingSenderId: "775416095138"
-};
+}; d
 
 // Initialise iff not already initialised
 if (!firebase.apps.length) {
